@@ -66,3 +66,4 @@ createApp(App).use(routerItem).mount('#app')
 <!-- // localhost:8080/list -->
 <router-view :blogData="blogData"></router-view>
 ```
+# vueblog
